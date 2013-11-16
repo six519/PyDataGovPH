@@ -1,4 +1,4 @@
-__version__ = "1.3"
+__version__ = "1.4"
 __app_name__ = "pydatagovph"
 __description__ = "Python API Client for data.gov.ph"
 __author__ = "Ferdinand Silva"
