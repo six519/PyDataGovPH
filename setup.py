@@ -12,7 +12,7 @@ setup(
     author=pydatagovph.__author__,
     author_email=pydatagovph.__author_email__,
     packages=['pydatagovph'],
-    install_requires=['requests==2.0.1'],
+    install_requires=['requests==2.20.0'],
     url=pydatagovph.__app_url__,
     classifiers=(
         'Development Status :: 4 - Beta',
